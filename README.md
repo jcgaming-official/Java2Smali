@@ -6,3 +6,5 @@ Leyzymoy Telegram:  [@Leyzymoy](https://t.me/leyzymoy)
 Leyzymoy Telegram Channel: [t.me/leyzymoy_blog](t.me/leyzymoy_blog)
 
 This is just for sharing and educational purposes
+
+Download Java2Smali [here](https://github.com/jcgaming-official/Java2Smali/releases/tag/app)
